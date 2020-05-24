@@ -2,5 +2,5 @@
 
 现在最新版本为20524
 
-（暂无）
+https://github.com/54ZSJun/Jcst.github.io
 你可以点击上面来下载最新版本
