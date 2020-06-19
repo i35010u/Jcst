@@ -107,7 +107,7 @@ void code(){
         std::string direy(c);
         std::string wgetDir(direy);
         wgetDir+="\\wget.exe";
-        std::string cmd = wgetDir+" https://54zsjun.github.io/Jcst.github.io/update.txt";
+        std::string cmd = wgetDir+" https://54zsjun.github.io/Jcst/update.txt";
         system(cmd.c_str());
         ifstream readFile("update.txt");
         int ret;
